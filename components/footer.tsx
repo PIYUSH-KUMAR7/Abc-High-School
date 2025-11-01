@@ -75,7 +75,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm">
-          <p>&copy; 2025 Abc High School. All rights reserved.</p>
+          <p>&copy; 2025 Ejusgro. All rights reserved.</p>
         </div>
       </div>
     </footer>
